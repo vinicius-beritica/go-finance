@@ -2,8 +2,6 @@
 
 Go Finance é um sistema de finanças que permite aos usuários gerenciar suas finanças pessoais. O projeto foi elaborado em React com a boilerplate Vite e utiliza a linguagem TypeScript.
 
-![Go Finance Login](https://git.raroacademy.com.br/vinicius.beritica/go-finance/-/blob/develop/public/images/login.JPG)
-
 ## Funcionalidades
 
 - Tela de login: permite aos usuários fazer login no sistema.
