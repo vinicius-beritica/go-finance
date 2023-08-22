@@ -1,0 +1,32 @@
+.input-form {
+  display: flex;
+  width: 307px;
+  padding: 18px 26px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  border: 1px solid #eee;
+  background-color: #fff;
+  color: #333333;
+}
+
+.input {
+  border: 0;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100%;
+  outline: 0;
+}
+
+placeholder {
+  color: #333;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  opacity: 0.3;
+}
